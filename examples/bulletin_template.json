@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "source_name": "REPLACE_WITH_CONFIRMED_SOURCE_NAME",
+      "source_record_id": "REPLACE_WITH_SOURCE_RECORD_ID",
+      "title": "PLACEHOLDER — NOT A REAL WARNING",
+      "original_text": "PLACEHOLDER ONLY. Replace this with content you are permitted to import. This is not a marine warning.",
+      "region": "REPLACE_WITH_VERIFIED_REGION",
+      "issued_at": "2030-01-01T00:00:00Z",
+      "valid_from": "2030-01-01T00:00:00Z",
+      "valid_until": "2030-01-01T01:00:00Z",
+      "source_url": null,
+      "is_demo": true
+    }
+  ]
+}
